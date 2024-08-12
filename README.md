@@ -1,5 +1,10 @@
 <h2 align="left">Hello Wordl 👋! My name is Barış Can and I'm a full-stack developer from Turkiye.</h2>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/lionpeace/count.svg?"  />
+</div>
+
+
 ###
 
 <div align="center">
