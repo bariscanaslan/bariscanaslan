@@ -2,8 +2,8 @@
 
 ### 
 
-<a href="https://bariscanaslan.com">
-<img align="center" height="200" src="https://bariscanaslan.com/assets/img/logo2.png"  />
+<a align="center" href="https://bariscanaslan.com">
+<img height="200" src="https://bariscanaslan.com/assets/img/logo2.png"  />
 </a>
 
 ###
