@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://bariscanaslan.com">
-  <img height="200" src="https://bariscanaslan.com/assets/img/logo2.png"  />
+    <img align="center" height="200" src="https://bariscanaslan.com/assets/img/logo2.png"  />
   </a>
 </div>
 
