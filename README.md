@@ -2,9 +2,11 @@
 
 ### 
 
-<a align="center" href="https://bariscanaslan.com">
-<img height="200" src="https://bariscanaslan.com/assets/img/logo2.png"  />
-</a>
+<div align="center">
+  <a href="https://bariscanaslan.com">
+  <img height="200" src="https://bariscanaslan.com/assets/img/logo2.png"  />
+  </a>
+</div>
 
 ###
 
