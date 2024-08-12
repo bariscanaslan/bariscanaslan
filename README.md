@@ -1,5 +1,13 @@
 <h2 align="left">Hello Wordl 👋! My name is Barış Can and I'm a full-stack developer from Turkiye.</h2>
 
+### 
+
+<a href="https://bariscanaslan.com">
+<img align="center" height="200" src="https://bariscanaslan.com/assets/img/logo2.png"  />
+</a>
+
+###
+
 <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
   <img src="https://profile-counter.glitch.me/lionpeace/count.svg?"  />
 </div>
@@ -14,13 +22,7 @@
 
 ###
 
-<a href="https://bariscanaslan.com">
-<img align="right" height="200" src="https://bariscanaslan.com/assets/img/logo2.png"  />
-</a>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
