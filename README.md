@@ -30,7 +30,7 @@
     <img width="25" />
   </div>
 
-  <div style={"margin-top:30px;"}>
+  <div style="margin-top: 30px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
     <img width="25" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo" />
@@ -43,7 +43,7 @@
     <img width="25" />
   </div>
 
-  <div style={"margin-top:30px;"}>
+  <div style="margin-top: 30px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnet mvc logo" />
     <img width="25" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo" />
@@ -54,14 +54,14 @@
     <img width="25" />
   </div> 
 
-  <div style={"margin-top:30px;"}>
+  <div style="margin-top: 30px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="mssql logo" />
     <img width="25" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo" />
     <img width="25" />
   </div>
   
-  <div style={"margin-top:30px;"}>
+  <div style="margin-top: 30px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="60" alt="ubuntu logo" />
     <img width="25" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="60" alt="debian logo" />
@@ -77,6 +77,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/bariscanaslann" target="_blank">
-    <img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png" height="40" alt="linkedin logo"  />
+    <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" height="40" alt="linkedin logo"  />
   </a>
 </div>
