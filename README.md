@@ -10,12 +10,6 @@
 
 ###
 
-<div align="center" style="margin-top: 200px; margin-bottom: 200px;">
-  <img src="https://profile-counter.glitch.me/lionpeace/count.svg?"  />
-</div>
-
-###
-
 <div align="center">
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo" />
