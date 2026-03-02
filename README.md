@@ -3,8 +3,8 @@
 ### 
 
 <div align="center">
-  <a href="https://bariscanaslan.com">
-    <img align="center" height="200" src="https://bariscanaslan.com/assets/img/logo2.png"  />
+  <a href="https://bariscanaslan.dev">
+    <img align="center" height="200" src="https://bariscanaslan.dev/static/media/home.d79b11f34f8d81b09576.png"  />
   </a>
 </div>
 
