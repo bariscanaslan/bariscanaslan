@@ -5,7 +5,6 @@
   <a href="https://bariscanaslan.dev"><img src="https://img.shields.io/badge/Portfolio-bariscanaslan.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/bariscanaslann"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:bariscanaslan@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.instagram.com/bariscanaslann"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
@@ -13,7 +12,6 @@
 ### About Me
 
 - 🎓 B.Sc. in Computer Engineering — **Kadir Has University** (2026)
-- 💼 Backend & Internal Tools Development at **Guess Europe SAGL**
 - 🛠️ I build RESTful APIs and internal business apps with **ASP.NET Core** and **Spring Boot**
 - 🐳 I run a **Debian home lab with 20+ Docker containers** — Gitea Actions CI/CD, Nginx, Cloudflare Tunnel, Uptime Kuma
 - 🌱 Currently deepening my knowledge of **DevOps, distributed systems and observability**
@@ -78,10 +76,10 @@
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| **[Track Your Best](https://github.com/bariscanaslan)** | IoT & cloud-based GPS fleet tracking platform with real-time data ingestion and geospatial processing | ESP32 · MQTT · ASP.NET Core · PostgreSQL/PostGIS · Docker |
-| **[RovALP](https://github.com/bariscanaslan)** | Real-time control backend for ROS2-based unmanned ground vehicles, with telemetry dashboard | FastAPI · WebSockets · ROS2 |
+| **[Track Your Best](https://github.com/bariscanaslan/track-your-best)** | IoT & cloud-based GPS fleet tracking platform with real-time data ingestion and geospatial processing | ESP32 · MQTT · ASP.NET Core · PostgreSQL/PostGIS · Docker |
+| **[RovALP](https://github.com/bariscanaslan/rovalp-ground-station)** | Real-time control backend for ROS2-based unmanned ground vehicles, with telemetry dashboard | FastAPI · WebSockets · ROS2 |
 | **Self-Hosted Infrastructure Platform** | Debian home lab with 20+ containers, CI/CD pipeline, reverse proxy, monitoring and automated backups | Docker · Gitea Actions · Nginx · Cloudflare Tunnel · Uptime Kuma |
-| **[Restaurant Reservation System](https://github.com/bariscanaslan)** | Full-stack reservation app with JWT auth and role-based access control | Spring Boot · React · MySQL |
+| **[Restaurant Reservation System](https://github.com/bariscanaslan/Restaurant-Reservation-System)** | Full-stack reservation app with JWT auth and role-based access control | Spring Boot · React · MySQL |
 
 ---
 
@@ -89,10 +87,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bariscanaslan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bariscanaslan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=bariscanaslan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
